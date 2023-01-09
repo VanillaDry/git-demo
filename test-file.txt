@@ -3,5 +3,10 @@ string 2
 line 3
 line 4
 
+<<<<<<< HEAD
 New couplet!
 ------------------------------
+=======
+line 5
+line 6
+>>>>>>> 121440fed8e38d2a69486d4c3c49bc73a13e0f93
